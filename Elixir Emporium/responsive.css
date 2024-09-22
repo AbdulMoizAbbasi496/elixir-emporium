@@ -1,0 +1,277 @@
+@media (max-width:1400px){
+    .data2{
+        /* margin-right: 200px; */
+        width: 550px;
+        margin: 140px 40px;
+    }
+    .data1{
+        padding: 140px 140px;
+    }
+
+    .nav ul li{
+        margin-left: 55px;
+    }
+    .data3{
+        margin-top: 80px;
+    }
+
+    .p1,.p2,.p3,.p4{
+        /* border: 2px solid red; */
+        margin: 10px 23px;
+        width: 38%;
+        padding: 47px;
+    }
+    .products{
+        width:80%;
+        margin: 20px auto;
+    }
+    .shop img{
+        width: 250px;
+        height: 250px;
+        margin: 10px 30px;
+    }
+}
+
+@media (max-width:1200px){
+    .data2{
+        /* margin-right: 200px; */
+        width: 550px;
+        margin: 140px 20px;
+    }
+    .data1{
+        padding: 150px 80px;
+    }
+
+    .nav ul li{
+        margin-left: 35px;
+    }
+    .data2 h1,.data3 h1,.shop h1{
+        font-size: 46px;
+    }
+    .data2 p,.data3 p,.parts p{
+        font-size: 18px;
+    }
+    .data3{
+        margin-top: 50px;
+    }
+    .p1,.p2,.p3,.p4{
+        /* border: 2px solid red; */
+        margin: 10px 20px;
+        width: 36%;
+        padding: 42px;
+    }
+    .products{
+        width:65%;
+        margin: 20px auto;
+    }
+    .shop img{
+        width: 230px;
+        height: 230px;
+        margin: 10px 35px;
+    }
+}
+
+@media (max-width:1010px){
+    .data2{
+        /* margin-right: 200px; */
+        width: 500px;
+        margin: 140px 20px;
+    }
+    .data1{
+        padding: 150px 80px;
+    }
+    .data1 img{
+        height: 250px;
+        width: 300px;
+    }
+    .data2 h1,.data3 h1,.shop h1{
+        font-size: 46px;
+    }
+    .data2 p,.data3 p,.parts p{
+        font-size: 18px;
+    }
+
+    .nav ul {
+        margin-left: 200px;
+    }
+    .data3{
+        margin-top: 40px;
+    }
+    .products{
+        width:50%;
+        margin: 20px auto;
+    }
+    .shop img{
+        width: 280px;
+        height: 280px;
+        margin: 10px 85px;
+    }
+}
+
+@media (max-width:900px){
+    .data2{
+        /* margin-right: 200px; */
+        width: 500px;
+        margin: 140px 15px;
+    }
+    .data1{
+        padding: 150px 60px;
+    }
+    .data1 img{
+        height: 200px;
+        width: 250px;
+    }
+    .data2 h1,.data3 h1,.shop h1{
+        font-size: 42px;
+    }
+    .data2 p,.data3 p,.parts p{
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .nav ul {
+        margin-left: 140px;
+    }
+    .nav ul li{
+        margin-left: 25px;
+    }
+    .data3{
+        margin-top: 30px;
+    }
+    .p1,.p2,.p3,.p4{
+        /* border: 2px solid red; */
+        margin: 10px 18px;
+        width: 35%;
+        padding: 35px;
+    }
+}
+
+@media (max-width:780px){
+    .data2{
+        /* margin-right: 200px; */
+        width: 450px;
+        margin: 140px 13px;
+    }
+    .data1{
+        padding: 150px 40px;
+    }
+    .data1 img{
+        height: 180px;
+        width: 230px;
+    }
+    .data2 h1,.data3 h1,.shop h1{
+        font-size: 30px;
+    }
+    .data2 p,.data3 p,.parts p{
+        font-size: 16px;
+    }
+
+    .nav ul {
+        margin-left: 118px;
+    }
+    .nav ul li{
+        margin-left: 20px;
+        font-size: 16px;
+    }
+    .nav h3{
+        font-size: 22px;
+    }
+    .data1 h3{
+        font-size: 22px;
+    }
+    .data3{
+        margin-top: 20px;
+    }
+    .p1,.p2,.p3,.p4{
+        /* border: 2px solid red; */
+        margin: 10px 18px;
+        width: 33%;
+        padding: 32px;
+    }
+    .parts p{
+        margin-top: 36px;  
+    }
+    .shop img{
+        width: 280px;
+        height: 280px;
+        margin: 10px 65px;
+    }
+}
+
+
+@media (max-width:620px){
+    .data1 img{
+        height: 160px;
+        width: 210px;
+    }
+    .data2 h1,.data3 h1,.shop h1{
+        font-size: 28px;
+    }
+    .data2 p,.data3 p,.parts p{
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .data2{
+        /* margin-right: 200px; */
+        width: 500px;
+        margin: 140px 11px;
+    }
+    .nav ul {
+        margin-left: 40px;
+    }
+    .p1,.p2,.p3,.p4{
+        /* border: 2px solid red; */
+        /* margin: 10px 18px; */
+        margin-left: 120px;
+        width: 50%;
+        padding: 35px;
+    }
+    .parts p{
+        margin-top: 32px;  
+    }
+    .shop img{
+        width: 280px;
+        height: 280px;
+        margin: 10px 25px;
+    }
+}
+
+@media (max-width:660px){
+    .data1 img{
+        height: 140px;
+        width: 190px;
+    }
+    .data2{
+        /* margin-right: 200px; */
+        width: 530px;
+        margin: 130px 10px;
+    }
+      .nav ul {
+        margin-left: 40px;
+    }
+}
+
+@media (max-width:550px){
+    .data2{
+        width: 100%;
+        margin: 130px 10px;
+        
+    }
+    .data1 {
+        padding-right: 20px;
+    }
+    .nav ul {
+        margin-left: 60px;
+    }
+    .data2 p{
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .nav ul li{
+        margin-left: 17px;
+        font-size: 16px;
+    }
+    .nav h3{
+        font-size: 20px;
+    }
+}
